@@ -1,0 +1,1 @@
+This is a mini project in the Odin Project web design course. I am learning HTML, and this project will help demonstrate my ability to create a multi-page website using the HTML boilerplate and various content elements including headings, paragraphs, images, hyperlinks, and lists. 
